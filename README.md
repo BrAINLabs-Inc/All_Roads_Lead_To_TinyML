@@ -35,7 +35,7 @@ This is a **hands-on and theory-integrated workshop** with a focus on **practica
 | **1:30 – 2:00 PM** | Lunch Break | — | — |
 | **2:00 – 3:00 PM** | Bio-inspired Efficient Architectures | Ms. Madusha | [📄 Slides - 03_bio_inspired_architectures.pdf](Ms_Madusha_SICET_Session_3_bio_inspired.pdf) |
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Spiking Neural Networks](https://colab.research.google.com/drive/1frQzaq6LKjdF36342Lhkiuv4SzPe2Mj7?usp=sharing)|
-| **3:00 – 4:00 PM** | Compression Techniques – Hands-on Session | Mr. Asiri Gawesha | [📄 Slides- 04_Coding sessions.pdf](Mr_Asiri_(MERCon)_Coding_session_4_.pdf) |
+| **3:00 – 4:00 PM** | Compression Techniques – Hands-on Session | Mr. Asiri Gawesha | [📄 Slides- 04_Coding sessions.pdf](Mr_Asiri_Coding_session_4_.pdf) |
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Headpose_pruning_quantization](https://colab.research.google.com/drive/10ASWBRY6BBQeoAljPHhPU5IjfqFX4pUI?usp=sharing)|
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)PlantLeaves_mirco](https://colab.research.google.com/drive/1tYySJEYomYnqsYnt4F30ZaZTin4hB1n4?usp=sharing)|
 |||| [Arduino Code - "tinyPlant" Directory](tinyPLant) |
